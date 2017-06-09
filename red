@@ -6,17 +6,17 @@
 
 .app,
 .callout-backdrop {
-    background-image: url("http://i.imgur.com/kfbllf0.png");
-    background-size: cover !important;
-    background-position: center !important;
+    background-image: url("http://i.imgur.com/kfbllf0.png")!important;
+    background-size: 1280px 720px;
+    background-position: no-repeat;
 }
 .bda-backdrop {
     background: url("http://i.imgur.com/kfbllf0.png");
-    background-size: cover!important;
+    background-size: 1280px 720px;
 }
 #pubs-container:before {
 	background: url("http://i.imgur.com/kfbllf0.png")!important;
-    background-size: cover!important;
+    background-size: 1280px 720px;
 }
 .layers,
 .layer,
